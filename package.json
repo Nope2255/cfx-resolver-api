@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7"
+  },
+  "name": "kidu-cfx-resolver",
+  "description": "> This `\"cfx-resolver\"` will get you all informations of a fivem server via `GET requests` and the given `query`.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxince/cfx-resolver-api.git"
+  },
+  "author": "oxince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oxince/cfx-resolver-api/issues"
+  },
+  "homepage": "https://github.com/oxince/cfx-resolver-api#readme"
+}

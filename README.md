@@ -1,3 +1,28 @@
+# Setup source documentation
+### Installation
+#### Requirements
+
+- npm
+- node >= 16
+
+```
+git clone https://github.com/oxince/cfx-resolver-api
+cd cfx-resolver-api
+npm install
+```
+
+Run application
+
+```
+node .
+```
+
+Try it
+
+```
+curl 127.0.0.1:8080
+```
+
 # API Documentation - cfx-resolver.kidu.wtf
 ### About
 > This `"cfx-resolver"` will get you all informations of a fivem server via `GET requests` and the given `query`.
